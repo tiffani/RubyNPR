@@ -1,0 +1,59 @@
+with_one_item: >
+  <subcategory name="Politics & Society">
+     <item id="1930201" num="25" type="column">
+        <slug/>
+        <title>Political Junkie</title>
+        <additionalInfo>
+           Ken Rudin's Political Junkie column appears every Wednesday. It includes readers' questions about politics past and present.
+        </additionalInfo>
+     </item>
+  </subcategory>
+  
+with_multiple_items: >
+  <subcategory name="Books">
+     <item id="4467346" num="2" type="column">
+        <slug/>
+        <title>Book Reviews</title>
+        <additionalInfo>
+           Book reviews of the best new fiction and nonfiction books by NPR's Alan Cheuse, Maureen Corrigan, and Karen Grigsby Bates.
+        </additionalInfo>
+     </item>
+     <item id="10448909" num="3" type="column">
+        <slug>Summer Books 2008</slug>
+        <title>Book Tour</title>
+        <additionalInfo>
+           Book Tour is a Web feature and podcast. Each week, we present leading contemporary authors of both fiction and nonfiction as they read from and discuss their current work.
+        </additionalInfo>
+     </item>
+     <item id="91752774" num="4" type="column">
+        <slug>Summer Books 2008</slug>
+        <title>Books We Like</title>
+        <additionalInfo>
+           There are books, and then there are "Books We Like." Each week in Books We Like, our critics review their top picks for new fiction and nonfiction.
+        </additionalInfo>
+     </item>
+     <item id="4464351" num="5" type="column">
+        <slug/>
+        <title>Poet on Call</title>
+        <additionalInfo>
+           Poet and novelist Andrei Codrescu offers a wry twist on news culture in his commentaries for NPR.
+        </additionalInfo>
+     </item>
+     <item id="90796087" num="6" type="column">
+        <slug>Summer Books 2008</slug>
+        <title>Three Books...</title>
+        <additionalInfo>
+           Why three? We live in a three-dimensional world, colored with hues that break down into a trio of primary colors. Our souls (according to Plato) and our psyches (according to Freud) are trilithic. Three is a number that allows for conversation, completion, understanding. And so "Three Books..." invites writers to recommend three great reads on a single theme.
+        </additionalInfo>
+     </item>
+     <item id="5432412" num="7" type="column">
+        <slug>Summer Books 2008</slug>
+        <title>You Must Read This</title>
+        <additionalInfo>
+           Each week "You Must Read This" presents conversations with writers about the books they love to read and recommend.
+        </additionalInfo>
+     </item>
+  </subcategory>
+  
+subcategory_with_no_items: >
+  <subcategory name="Food"/>

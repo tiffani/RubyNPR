@@ -1,0 +1,32 @@
+with_no_rightsholder_no_mp3rights: >
+ <audio id="95608227" type="primary">
+    <title/>
+    <duration>748</duration>
+    <format>
+       <mp3>http://api.npr.org/m3u/195608227-30ec0e.m3u&amp;ft=3&amp;f=1007</mp3>
+       <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=95608227&amp;type=1&amp;mtype=WM&amp;ft=3&amp;f=1007</wm>
+       <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=95608227&amp;type=1&amp;mtype=RM&amp;ft=3&amp;f=1007</rm>
+    </format>
+    <rightsHolder/>
+ </audio>
+
+
+with_no_formats: >
+  <audio id="95906239" type="primary">
+     <title/>
+     <duration>0</duration>
+     <format/>
+     <rightsHolder/>
+  </audio>
+
+with_mp3_rights: >
+  <audio id="91280057" primary="true">
+     <title/>
+     <duration>425</duration>
+     <format>
+        <mp3 rights="Streaming">http://api.npr.org/m3u/191280057-bd7a36.m3u</mp3>
+        <wm>http://api.npr.org/templates/dmg/dmg_wmref_em.php?id=91280057&type=1&mtype=WM</wm>
+        <rm>http://api.npr.org/templates/dmg/dmg_wmref_em.php?id=91280057&type=1&mtype=RM</rm>
+     </format>
+     <rightsHolder/>
+  </audio>

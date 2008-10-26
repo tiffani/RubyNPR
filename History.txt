@@ -1,0 +1,7 @@
+=== 0.0.1 / 2008-10-26
+
+* Initial release of ruby-npr...!
+
+=== 0.1.0 / 2008-10-26
+
+* Original version number was wrong...should have been 0.1.0 instead of 0.0.1! Fixed!

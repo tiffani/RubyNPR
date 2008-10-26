@@ -1,0 +1,78 @@
+with_subcategories: >
+  <list id="3007" typeid="3007">
+     <title>All Bios</title>
+     <subcategory name="A">
+        <item id="2100140" num="1" type="bio">
+           <slug>NPR People</slug>
+           <title>Larry Abramson</title>
+           <additionalInfo>Education Correspondent, National Desk</additionalInfo>
+        </item>
+        <item id="1936703" num="2" type="bio">
+           <slug>NPR People</slug>
+           <title>Noah Adams</title>
+           <additionalInfo>Senior Correspondent, National Desk</additionalInfo>
+        </item>
+        <item id="2100166" num="3" type="bio">
+           <slug>NPR People</slug>
+           <title>Margot Adler</title>
+           <additionalInfo>Correspondent, National Desk, New York</additionalInfo>
+        </item>
+     </subcategory>
+     <subcategory name="E">
+        <item id="4473010" num="53" type="bio">
+           <slug>NPR People</slug>
+           <title>David Edelstein</title>
+           <additionalInfo>Film Critic, Fresh Air</additionalInfo>
+        </item>
+        <item id="2100438" num="54" type="bio">
+           <slug>NPR People</slug>
+           <title>Debbie Elliott</title>
+           <additionalInfo>Congressional Correspondent</additionalInfo>
+        </item>
+        <item id="1930203" num="55" type="bio">
+           <slug>NPR People</slug>
+           <title>Ron Elving</title>
+           <additionalInfo>Supervising Senior Washington Editor</additionalInfo>
+        </item>
+     </subcategory>
+  </list>
+  
+without_subcategories: >
+  <list id="3002" typeid="3002">
+     <title>All Topics</title>
+     <item id="1059" num="1" type="topic">
+        <slug/>
+        <title>Analysis</title>
+        <additionalInfo>
+          Analysis by NPR commentators, including Daniel Schorr and Ted Koppel. Subscribe to our free podcast.
+        </additionalInfo>
+     </item>
+     <item id="1008" num="2" type="topic">
+        <slug/>
+        <title>Arts & Entertainment</title>
+        <additionalInfo>
+           Art and entertainment commentary plus interviews, book reviews, movie reviews, music reviews, comedy, and visual art. Subscribe to podcasts and follow trends in music, painting, art, architecture, photography, and design.
+        </additionalInfo>
+     </item>
+     <item id="1033" num="3" type="topic">
+        <slug/>
+        <title>Authors</title>
+        <additionalInfo>
+           NPR interviews with top authors and the NPR Book Tour, a weekly feature and podcast where leading authors read and discuss their writing. Subscribe to the RSS feed.
+        </additionalInfo>
+     </item>
+     <item id="1032" num="4" type="topic">
+       <slug/>
+       <title>Books</title>
+       <additionalInfo>
+          Book reviews, interviews with authors, and NPR Book Tour, a weekly audio feature and podcast where leading authors read and discuss their work.  Subscribe to the RSS feed.
+       </additionalInfo>
+     </item>
+     <item id="1006" num="5" type="topic">
+        <slug/>
+        <title>Business</title>
+        <additionalInfo>
+           Find the latest business news with reports on Wall Street, interest rates, banking, companies, and U.S. and world financial markets. Subscribe to the Business Story of the Day podcast.
+        </additionalInfo>
+     </item>
+  </list>

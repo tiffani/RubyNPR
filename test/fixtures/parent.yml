@@ -1,0 +1,6 @@
+typical_parent: >
+  <parent id="1027" type="primaryTopic">
+     <title>Health Care</title>
+     <link type="html">http://www.npr.org/templates/topics/topic.php?topicId=1027&amp;ft=3&amp;f=1007</link>
+     <link type="api">http://api.npr.org/query?id=1027&amp;apiKey=MDAyMDAzMjg3MDEyMjMwMTgyODA0NWNlMg001</link>
+  </parent>

@@ -1,0 +1,522 @@
+story_result_listing: >
+  <nprml version="0.9">
+     <list>
+        <title>Business</title>
+        <teaser><![CDATA[Find the latest business news with reports on Wall Street, interest rates, banking, companies, and U.S. and world financial markets. Subscribe to the Business Story of the Day podcast.]]></teaser>
+        <miniTeaser/>
+        <story id="95899428">
+           <link type="html">http://www.npr.org/templates/story/story.php?storyId=95899428&amp;ft=3&amp;f=1006</link>
+           <link type="api">http://api.npr.org/query?id=95899428&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           <title>Fed Tries To Offer Economic Reassurance</title>
+           <subtitle/>
+           <shortTitle/>
+           <teaser><![CDATA[Federal Reserve Chairman Ben Bernanke  warns that it will be a while before the economy can bounce back and that he supports a new stimulus plan from Congress. We examine the specifics. ]]></teaser>
+           <miniTeaser><![CDATA[Federal Reserve Chairman Bernanke says that another stimulus package may be necessary. ]]></miniTeaser>
+           <slug>Marketplace Report</slug>
+           <thumbnail/>
+           <storyDate>Mon, 20 Oct 2008 13:00:00 -0400</storyDate>
+           <pubDate>Mon, 20 Oct 2008 13:00:00 -0400</pubDate>
+           <lastModifiedDate>Mon, 20 Oct 2008 14:38:22 -0400</lastModifiedDate>
+           <show>
+              <program id="17" code="DAY">Day to Day</program>
+              <showDate>Mon, 20 Oct 2008 13:00:00 -0400</showDate>
+              <segNum>6</segNum>
+           </show>
+           <keywords/>
+           <priorityKeywords/>
+           <organization orgId="1">
+              <name>National Public Radio</name>
+              <website type="Home Page">http://www.npr.org/</website>
+           </organization>
+           <parent id="94645352" type="series">
+              <title>Marketplace Report</title>
+              <link type="html">http://www.npr.org/templates/story/story.php?storyId=94645352&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=94645352&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </parent>
+           <parent id="1017" type="primaryTopic">
+              <title>Economy</title>
+              <link type="html">http://www.npr.org/templates/topics/topic.php?topicId=1017&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=1017&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </parent>
+           <parent id="1017" type="topic">
+              <title>Economy</title>
+              <link type="html">http://www.npr.org/templates/topics/topic.php?topicId=1017&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=1017&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </parent>
+           <parent id="1006" type="topic">
+              <title>Business</title>
+              <link type="html">http://www.npr.org/templates/topics/topic.php?topicId=1006&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=1006&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </parent>
+           <parent id="1001" type="topic">
+              <title>News</title>
+              <link type="html">http://www.npr.org/templates/topics/topic.php?topicId=1001&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=1001&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </parent>
+           <audio id="95899409" type="primary">
+              <title/>
+              <duration>191</duration>
+                 <format>
+                    <mp3>http://api.npr.org/m3u/195899409-993c43.m3u&amp;ft=3&amp;f=1006</mp3>
+                    <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=95899409&amp;type=1&amp;mtype=WM&amp;ft=3&amp;f=1006</wm>
+                    <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=95899409&amp;type=1&amp;mtype=RM&amp;ft=3&amp;f=1006</rm>
+                 </format>
+              <rightsHolder/>
+           </audio>
+           <byline id="95899714">
+              <name personId="2100322">Alex Chadwick</name>
+              <link type="html">http://www.npr.org/templates/story/story.php?storyId=2100322&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=2100322&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </byline>
+           <byline id="95899717">
+              <name>Janet Babin</name>
+           </byline>
+           <container id="95901913">
+           <title>Related NPR Stories</title><introText/><link refId="95901916" num="1"/><link refId="95901918" num="2"/><link refId="95901920" num="3"/></container>
+           <relatedLink id="95901916" type="internal">
+              <caption><![CDATA[Bernanke Hints At Rate Cuts]]></caption>
+              <link type="html">http://www.npr.org/templates/story/story.php?storyId=95484248&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=95484248&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </relatedLink>
+           <relatedLink id="95901918" type="internal">
+              <caption><![CDATA[Paulson's Handling Of Crisis Draws Mixed Reviews]]></caption>
+              <link type="html">http://www.npr.org/templates/story/story.php?storyId=95799671&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=95799671&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </relatedLink>
+           <relatedLink id="95901920" type="internal">
+              <caption><![CDATA[Bernanke Urges Economic Stimulus From Congress]]></caption>
+              <link type="html">http://www.npr.org/templates/story/story.php?storyId=95894749&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=95894749&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </relatedLink>
+           <text>
+              <paragraph num="1"><![CDATA[Federal Reserve Chairman Ben Bernanke and Treasury Secretary Henry Paulson separately addressed the ongoing financial crisis this morning. Bernanke warned that it will be a while before the economy can bounce back, while Paulson explained to reporters how his bank equity program would work.  We examine Bernanke's and Paulson's efforts to reassure the country that they've got the economic situation under control.  Copyright 2008 National Public Radio. To see more, visit <a href="http://www.npr.org/">http://www.npr.org/</a>.<img src="http://media.npr.org/images/xanadu.gif?apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001" />]]></paragraph>
+           </text>
+           <textWithHtml>
+              <paragraph num="1"><![CDATA[Federal Reserve Chairman Ben Bernanke and Treasury Secretary Henry Paulson separately addressed the ongoing financial crisis this morning. Bernanke warned that it will be a while before the economy can bounce back, while Paulson explained to reporters how his bank equity program would work.  We examine Bernanke's and Paulson's efforts to reassure the country that they've got the economic situation under control.  Copyright 2008 National Public Radio. To see more, visit <a href="http://www.npr.org/">http://www.npr.org/</a>.<img src="http://media.npr.org/images/xanadu.gif?apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001" />]]></paragraph>
+           </textWithHtml>
+        </story>
+        <story id="95899431">
+           <link type="html">http://www.npr.org/templates/story/story.php?storyId=95899431&amp;ft=3&amp;f=1006</link>
+           <link type="api">http://api.npr.org/query?id=95899431&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           <title>Couple Wants $200,000 For Ruined Pot Plants</title>
+           <subtitle/>
+           <shortTitle/>
+           <teaser><![CDATA[When Jim Masters and his wife Lisa were arrested in 2006 for marijuana cultivation, the police confiscated 39 marijuana plants. The Colorado case was dismissed a year later but the couple's pot plants had all died. Now they want the police department to reimburse them for the cost of the plants.]]></teaser>
+           <miniTeaser><![CDATA[A Colo. couple is asking for reimbursement for plants that died after being confiscated by police.]]></miniTeaser>
+           <slug>Politics &amp; Society</slug>
+           <thumbnail/>
+           <storyDate>Mon, 20 Oct 2008 13:00:00 -0400</storyDate>
+           <pubDate>Mon, 20 Oct 2008 13:00:00 -0400</pubDate>
+           <lastModifiedDate>Mon, 20 Oct 2008 14:38:22 -0400</lastModifiedDate>
+           <show>
+              <program id="17" code="DAY">Day to Day</program>
+              <showDate>Mon, 20 Oct 2008 13:00:00 -0400</showDate>
+              <segNum>8</segNum>
+           </show>
+           <keywords/>
+           <priorityKeywords/>
+           <organization orgId="1">
+              <name>National Public Radio</name>
+              <website type="Home Page">http://www.npr.org/</website>
+           </organization>
+           <parent id="1021" type="topic">
+              <title>People &amp; Places</title>
+              <link type="html">http://www.npr.org/templates/topics/topic.php?topicId=1021&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=1021&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </parent>
+           <parent id="1006" type="topic">
+              <title>Business</title>
+              <link type="html">http://www.npr.org/templates/topics/topic.php?topicId=1006&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=1006&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </parent>
+           <audio id="95899411" type="primary">
+              <title/>
+              <duration>257</duration>
+              <format>
+                 <mp3>http://api.npr.org/m3u/195899411-ef1f1b.m3u&amp;ft=3&amp;f=1006</mp3>
+                 <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=95899411&amp;type=1&amp;mtype=WM&amp;ft=3&amp;f=1006</wm>
+                 <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=95899411&amp;type=1&amp;mtype=RM&amp;ft=3&amp;f=1006</rm>
+              </format>
+              <rightsHolder/>
+           </audio>
+           <byline id="95899719">
+              <name>Kirk Siegler</name>
+           </byline>
+           <container id="95900233">
+           <title>Related NPR Stories</title><introText/><link refId="95900238" num="1"/><link refId="95900240" num="2"/><link refId="95900242" num="3"/></container>
+           <relatedLink id="95900238" type="internal">
+              <caption><![CDATA[Marijuana Store Busted At Mall Of Americas]]></caption>
+              <link type="html">http://www.npr.org/templates/story/story.php?storyId=93970749&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=93970749&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </relatedLink>
+           <relatedLink id="95900240" type="internal">
+              <caption><![CDATA[Exactly How Legal Is Medical Marijuana?]]></caption>
+              <link type="html">http://www.npr.org/templates/story/story.php?storyId=93697469&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=93697469&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </relatedLink>
+           <relatedLink id="95900242" type="internal">
+              <caption><![CDATA[Are Medical Marijuana Riches Just a Pipe Dream?]]></caption>
+              <link type="html">http://www.npr.org/templates/story/story.php?storyId=93693975&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=93693975&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </relatedLink>
+           <text>
+              <paragraph num="1"><![CDATA[When Jim Masters and his wife Lisa were arrested in 2006 for marijuana cultivation, the police confiscated 39 marijuana plants and put their daughter in protective custody.  They got their daughter back in two months, but it took a year to get the charges dropped and their plants returned &mdash; and by then, all of their plants had died.]]></paragraph>
+              <paragraph num="2"><![CDATA[In most states, the story would end there. But the Colorado medical marijuana statute has a unique property rights clause, barring police from harming or destroying plants. Now the couple is seeking $200,000 from the the police department to reimburse them for the cost of the plants.]]></paragraph>
+              <paragraph num="3"><![CDATA[ Kirk Siegler reports for member station KUNC.   Copyright 2008 National Public Radio. To see more, visit <a href="http://www.npr.org/">http://www.npr.org/</a>.<img src="http://media.npr.org/images/xanadu.gif?apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001" />]]></paragraph>
+           </text>
+           <textWithHtml>
+              <paragraph num="1"><![CDATA[When Jim Masters and his wife Lisa were arrested in 2006 for marijuana cultivation, the police confiscated 39 marijuana plants and put their daughter in protective custody.  They got their daughter back in two months, but it took a year to get the charges dropped and their plants returned &mdash; and by then, all of their plants had died.]]></paragraph>
+              <paragraph num="2"><![CDATA[In most states, the story would end there. But the Colorado medical marijuana statute has a unique property rights clause, barring police from harming or destroying plants. Now the couple is seeking $200,000 from the the police department to reimburse them for the cost of the plants.]]></paragraph>
+              <paragraph num="3"><![CDATA[<em> Kirk Siegler reports for member station KUNC. </em>  Copyright 2008 National Public Radio. To see more, visit <a href="http://www.npr.org/">http://www.npr.org/</a>.<img src="http://media.npr.org/images/xanadu.gif?apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001" />]]></paragraph>
+           </textWithHtml>
+        </story>
+        <story id="95894749">
+           <link type="html">http://www.npr.org/templates/story/story.php?storyId=95894749&amp;ft=3&amp;f=1006</link>
+           <link type="api">http://api.npr.org/query?id=95894749&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           <title>Bernanke Urges Economic Stimulus From Congress</title>
+           <subtitle/>
+           <shortTitle/>
+           <teaser><![CDATA[Federal Reserve Chairman Ben Bernanke said he supports a new stimulus plan from Congress to blunt the blow the financial crisis has dealt the U.S. economy. Bernanke said weakness could last "some time" unless the economy gets a financial shot in the arm.]]></teaser>
+           <miniTeaser><![CDATA[The Fed chief says a stimulus is needed to help offset the financial crisis's effect on the economy.]]></miniTeaser>
+           <slug>Economy</slug>
+           <storyDate>Mon, 20 Oct 2008 10:19:00 -0400</storyDate>
+           <pubDate>Mon, 20 Oct 2008 10:19:00 -0400</pubDate>
+           <lastModifiedDate>Mon, 20 Oct 2008 13:13:57 -0400</lastModifiedDate>
+           <keywords/>
+           <priorityKeywords/>
+           <organization orgId="1">
+              <name>National Public Radio</name>
+              <website type="Home Page">http://www.npr.org/</website>
+           </organization>
+           <parent id="94624938" type="newsPackage">
+              <title>Financial Turmoil Grips World Markets</title>
+              <link type="html">http://www.npr.org/templates/story/story.php?storyId=94624938&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=94624938&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </parent>
+           <parent id="1017" type="topic">
+              <title>Economy</title>
+              <link type="html">http://www.npr.org/templates/topics/topic.php?topicId=1017&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=1017&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </parent>
+           <parent id="1017" type="primaryTopic">
+              <title>Economy</title>
+              <link type="html">http://www.npr.org/templates/topics/topic.php?topicId=1017&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=1017&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </parent>
+           <parent id="1014" type="topic">
+              <title>Politics</title>
+              <link type="html">http://www.npr.org/templates/topics/topic.php?topicId=1014&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=1014&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </parent>
+           <parent id="1006" type="topic">
+              <title>Business</title>
+              <link type="html">http://www.npr.org/templates/topics/topic.php?topicId=1006&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=1006&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </parent>
+           <parent id="1003" type="topic">
+              <title>Nation</title>
+              <link type="html">http://www.npr.org/templates/topics/topic.php?topicId=1003&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=1003&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </parent>
+           <parent id="1001" type="topic">
+              <title>News</title>
+              <link type="html">http://www.npr.org/templates/topics/topic.php?topicId=1001&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=1001&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </parent>
+           <byline id="95894770">
+              <name personId="11209543">Dina Temple-Raston</name>
+              <link type="html">http://www.npr.org/templates/story/story.php?storyId=11209543&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=11209543&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </byline>
+           <container id="95894748">
+              <title>Related NPR Stories</title><introText/><link refId="95894752" num="1"/><link refId="95894756" num="2"/><link refId="95894758" num="3"/><link refId="95894760" num="4"/></container>
+           <container id="95894803">
+              <title>Bernanke's Testimony</title><introText/></container>
+           <container id="95900411">
+              <title>In Focus</title><introText/><link refId="95894762" num="1"/><link refId="95894764" num="2"/><link refId="95894766" num="3"/></container>
+           <relatedLink id="95894752" type="internal">
+              <caption><![CDATA[Dutch Bank ING The Latest To Get A Cash Infusion]]></caption>
+              <link type="html">http://www.npr.org/templates/story/story.php?storyId=95889722&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=95889722&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </relatedLink>
+           <relatedLink id="95894756" type="internal">
+              <caption><![CDATA[Global Summit Takes On Economic Turmoil]]></caption>
+              <link type="html">http://www.npr.org/templates/story/story.php?storyId=95889705&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=95889705&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </relatedLink>
+           <relatedLink id="95894758" type="internal">
+              <caption><![CDATA[Experts Fear Financial Crisis Will Hurt World's Poor]]></caption>
+              <link type="html">http://www.npr.org/templates/story/story.php?storyId=95849397&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=95849397&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </relatedLink>
+           <relatedLink id="95894760" type="internal">
+              <caption><![CDATA[More Harm From Hedge Funds?]]></caption>
+              <link type="html">http://www.npr.org/templates/story/story.php?storyId=95862815&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=95862815&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </relatedLink>
+           <relatedLink id="95894762" type="internal">
+              <caption><![CDATA[Financial Turmoil Grips World Markets]]></caption>
+              <link type="html">http://www.npr.org/templates/story/story.php?storyId=94624938&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=94624938&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </relatedLink>
+           <relatedLink id="95894764" type="internal">
+              <caption><![CDATA[Experts Fear Financial Crisis Will Hurt World's Poor]]></caption>
+              <link type="html">http://www.npr.org/templates/story/story.php?storyId=95849397&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=95849397&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </relatedLink>
+           <relatedLink id="95894766" type="internal">
+              <caption><![CDATA[Stocks Dive On Gloomy Economic Outlook]]></caption>
+              <link type="html">http://www.npr.org/templates/story/story.php?storyId=95733902&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=95733902&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </relatedLink>
+           <text>
+              <paragraph num="1"><![CDATA[Federal Reserve Chairman Ben Bernanke said he supports a new stimulus plan from Congress to blunt the blow the financial crisis has dealt the U.S. economy. Bernanke told lawmakers Monday that weakness could last "some time" unless the economy gets a financial shot in the arm. ]]></paragraph>
+              <paragraph num="2"><![CDATA["The uncertainty currently surrounding the economic outlook is unusually large," Bernanke told the House Budget Committee. Because of that, he said, a stimulus program from Congress was necessary to help right the listing U.S. economy. ]]></paragraph>
+              <paragraph num="3"><![CDATA[Democrats in Congress have been agitating for a new stimulus. The Bush administration has been lukewarm to such a plan but came out and said it was open to the possibility shortly after Bernanke's testimony.  ]]></paragraph>
+              <paragraph num="4"><![CDATA["If the Congress proceeds with a fiscal package, it should consider including measures to help improve access to credit by consumers, homebuyers, businesses and other borrowers," Bernanke said. "Such actions might be particularly effective at promoting economic growth and job creation."  ]]></paragraph>
+              <paragraph num="5"><![CDATA[The Fed has already tried to goose economic growth by lowering interest rates. On Oct. 8, as part of an unprecedented global cut, the Fed dropped the overnight federal funds rate &mdash; the interest rate at which banks lend to each other &mdash; to 1.5 percent from 2 percent. Wall Street investors are expecting another rate cut when the Fed's Federal Open Market Committee meets in Washington on Oct. 28-29.  ]]></paragraph>
+              <paragraph num="6"><![CDATA[Wall Street has been cautiously optimistic in the past couple of trading days. The stock market opened higher in morning trading and has broken the 9,000 mark several times. By midday the Dow Jones industrial average was up 190 points to 9,042. ]]></paragraph>
+              <paragraph num="7"><![CDATA[The U.S. market has been trading on fundamentals Monday, rather than the panic mode that had come to characterize trading last week. Markets in Europe and Asia set the tone. Investors there seemed buoyed by the decision by the Netherlands to inject $13.4 billion into banking and insurance giant ING. Germany also announced that it was working on a rescue package should any of its banks get into trouble.]]></paragraph>
+              <paragraph num="8"><![CDATA[Data Point To Slow Economy ]]></paragraph>
+              <paragraph num="9"><![CDATA[In making his case, the Fed chief provided a gloomy recitation of economic woes that have already occurred. The economy shed 168,000 jobs in September, bringing the total job loss since January to nearly 900,000. That means unemployment has risen 1 or 2 percentage points since January. Bernanke said the housing market is also depressed. Single-family-housing starts dropped 12 percent in September. ]]></paragraph>
+              <paragraph num="10"><![CDATA["Residential construction is likely to continue to contract next year," Bernanke said.  ]]></paragraph>
+              <paragraph num="11"><![CDATA[In recent years, Fed chiefs have been focused on narrowing the budget deficit. So Bernanke's support of more spending is unusual. And while he conceded that there were trade-offs in spending more government money and adding to the debt, he said he still supported a package to help spark economic growth. ]]></paragraph>
+              <paragraph num="12"><![CDATA["With the economy likely to be weak for several quarters, and with some risk of a protracted slowdown, consideration of a fiscal package by the Congress at this juncture seems appropriate," Bernanke said.  ]]></paragraph>
+              <paragraph num="13"><![CDATA[There has already been a stimulus package from Congress this year. It enacted a $168 billion plan that included tax rebates for individuals and tax breaks for businesses last spring. There were rebate checks of up to $600 per person that gave the economy a boost, but not enough to see the economy through the current difficulties associated with the financial crisis. All indications are that consumers are pulling back again. ]]></paragraph>
+              <paragraph num="14"><![CDATA[Even when questioned directly by the committee members about what a package should include, Bernanke offered only generalities. He said that the package would need to be timely, well-targeted and would have a limited effect on the government's budget deficit &mdash; which is rocketing. Bernanke suggested that a package would do well to include provisions that would help ease wariness in the credit markets.  ]]></paragraph>
+              <paragraph num="15"><![CDATA["The credit constraints really are hitting home," Bernanke said, reciting a litany of credit problems &mdash; from businesses having trouble getting money to consumers unable to get car loans &mdash; that are putting the brakes on economic growth.]]></paragraph>
+              <paragraph num="16"><![CDATA[Credit Markets Ease Slightly]]></paragraph>
+              <paragraph num="17"><![CDATA[ Despite Bernanke's gloominess, for the first time since the financial crisis began, there seems to be a tiny glimmer of hope in the credit markets. Banks have been loath to lend to each other out of concern that they wouldn't get their money back. That has been reflected in skyrocketing interest rates. After weeks of cash infusions and loan guarantees from governments around the world, bankers' confidence appears to be growing.  ]]></paragraph>
+              <paragraph num="18"><![CDATA[The London Interbank Offered Rate, known as LIBOR, is starting to respond to the huge infusions of cash that governments have injected into the global financial system. LIBOR is the interest rate U.K. banks charge each other to borrow money, and it is set by a survey of 16 British banks. While that rate inching down is good news, the difference between LIBOR and the federal funds rate is still near an all-time high. So this is only a beginning. ]]></paragraph>
+              <paragraph num="19"><![CDATA[Expecting only baby steps in the unfreezing of the credit markets, Wall Street is looking for LIBOR to fall below the 4 percent level. Right now it is at 4.059 percent &mdash; up from about 2.5 percent before the crisis began. Lots of debt, including mortgages, is tied to LIBOR, so it is a good yardstick with which to measure efforts to save the financial industry.   ]]></paragraph>
+              <paragraph num="20"><![CDATA[Treasury Secretary Henry Paulson tried to add to the loosening of credit markets by providing more details Monday on how the government will go about buying a $250 billion equity stake in the nation's banks. The program is meant to be a straightforward way to beef up thinning bank reserves and inspire confidence so banks start lending again. So far the results have been mixed, as banks are still wary about whether the program will work.  ]]></paragraph>
+              <paragraph num="21"><![CDATA[Paulson announced a streamlined application process for banks. He said that banks would just need to fill out a two-page form and return it to their primary regulator. The regulator will review it and then forward it to the Treasury Department. Treasury will make the financial decision on which institutions will receive the stock purchases. Banks have until Nov. 14 to apply. ]]></paragraph>
+              <paragraph num="22"><![CDATA[Paulson Sees U.S. Making Money On Bailout ]]></paragraph>
+              <paragraph num="23"><![CDATA[Paulson tried to make the case that the program was already doing some good and would enjoy lots of participation. He said in addition to the nine large banks that announced their participation last week, a roster of other banks large and small have said they want to participate. Citigroup, Goldman Sachs, Wells Fargo, JPMorgan Chase, Bank of America, Merrill Lynch and Morgan Stanley are among the institutions that will be first in line for the government infusion.  ]]></paragraph>
+              <paragraph num="24"><![CDATA["Our purpose is to increase confidence in our banks and increase the confidence of our banks, so they will deploy, not hoard, their capital," said Paulson. "And we expect them to do so, as increased confidence will lead to increased lending." ]]></paragraph>
+              <paragraph num="25"><![CDATA[Many banks have been running on fumes, working with less money because of their bad bets on mortgage-related investments and hoarding the cash they have against more bad news in the future. While Paulson has tried to portray the Treasury's decision to buy stakes in banks as a voluntary program, there has been more than a little arm-twisting behind the scenes.  ]]></paragraph>
+              <paragraph num="26"><![CDATA[When Paulson met with key banking executives at the Treasury last week, he presented them with a bit of a fait accompli. He said they had to accept government investments even if they didn't think they needed them. Paulson told them it was their patriotic duty to do so. The idea was to include healthy institutions in the recapitalization program as well as ailing ones so that banks that chose to accept the government's help wouldn't be stigmatized or seen as failing.  ]]></paragraph>
+              <paragraph num="27"><![CDATA[Paulson said the government would end up making money on the stakes it would take in the banks. "This is an investment, not an expenditure," he said. "There is no reason to expect this program will cost taxpayers anything." ]]></paragraph>
+              <paragraph num="28"><![CDATA[The last time the Treasury waded into the banking system in this way was in the 1930s. That's when the government set up the Reconstruction Finance Corp. to make loans and buy stakes in distressed banks during the Great Depression. The price tag at the time: $1.3 billion. The government eventually got out of the banking business when the economy stabilized. The government sold the stock it held to private investors and the banks themselves. That's expected to happen in this case, as well.  ]]></paragraph>
+              <paragraph num="29"><![CDATA[Investigations Into Credit Default Swaps]]></paragraph>
+              <paragraph num="30"><![CDATA[New York state and federal prosecutors are wading into the financial crisis in a new way as well. They are investigating trading in credit default swaps &mdash; insurancelike securities that have been at the core of the financial crisis. Investigators are looking at whether traders manipulated the swaps to drive down the price of financial shares over the past year. The investigation was first reported in The New York Times and was confirmed to NPR by law enforcement officials.  ]]></paragraph>
+              <paragraph num="31"><![CDATA[Credit default swaps were supposed to protect buyers from people who ended up defaulting on debt. A lot of these swaps were meant as a hedge against the bundles of mortgage-backed securities losing value. The cost of the protection, also known as a spread, rises when investors grow more concerned about the viability of companies. Spreads on the swaps tied to debt issued by financial institutions like Lehman Brothers, Morgan Stanley and others began surging in the spring. That led to a decline in the companies' share prices partly because the cost of protecting their debt was going up. ]]></paragraph>
+              <paragraph num="32"><![CDATA[New York Attorney General Andrew Cuomo and the U.S. attorney in Manhattan, Michael J. Garcia, are looking into the practice. The Securities and Exchange Commission is also looking into credit default swaps. The credit default swap market has been unregulated because it fell somewhere between being a security and being insurance. There are moves afoot now to bring them under the SEC's umbrella.  Copyright 2008 National Public Radio. To see more, visit <a href="http://www.npr.org/">http://www.npr.org/</a>.<img src="http://media.npr.org/images/xanadu.gif?apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001" />]]></paragraph>
+           </text>
+           <textWithHtml>
+              <paragraph num="1"><![CDATA[Federal Reserve Chairman Ben Bernanke said he supports a new stimulus plan from Congress to blunt the blow the financial crisis has dealt the U.S. economy. Bernanke told lawmakers Monday that weakness could last "some time" unless the economy gets a financial shot in the arm. ]]></paragraph>
+              <paragraph num="2"><![CDATA["The uncertainty currently surrounding the economic outlook is unusually large," Bernanke told the House Budget Committee. Because of that, he said, a stimulus program from Congress was necessary to help right the listing U.S. economy. ]]></paragraph>
+              <paragraph num="3"><![CDATA[Democrats in Congress have been agitating for a new stimulus. The Bush administration has been lukewarm to such a plan but came out and said it was open to the possibility shortly after Bernanke's testimony.  ]]></paragraph>
+              <paragraph num="4"><![CDATA["If the Congress proceeds with a fiscal package, it should consider including measures to help improve access to credit by consumers, homebuyers, businesses and other borrowers," Bernanke said. "Such actions might be particularly effective at promoting economic growth and job creation."  ]]></paragraph>
+              <paragraph num="5"><![CDATA[The Fed has already tried to goose economic growth by lowering interest rates. On Oct. 8, as part of an unprecedented global cut, the Fed dropped the overnight federal funds rate &mdash; the interest rate at which banks lend to each other &mdash; to 1.5 percent from 2 percent. Wall Street investors are expecting another rate cut when the Fed's Federal Open Market Committee meets in Washington on Oct. 28-29.  ]]></paragraph>
+              <paragraph num="6"><![CDATA[Wall Street has been cautiously optimistic in the past couple of trading days. The stock market opened higher in morning trading and has broken the 9,000 mark several times. By midday the Dow Jones industrial average was up 190 points to 9,042. ]]></paragraph>
+              <paragraph num="7"><![CDATA[The U.S. market has been trading on fundamentals Monday, rather than the panic mode that had come to characterize trading last week. Markets in Europe and Asia set the tone. Investors there seemed buoyed by the decision by the Netherlands to inject $13.4 billion into banking and insurance giant ING. Germany also announced that it was working on a rescue package should any of its banks get into trouble.]]></paragraph>
+              <paragraph num="8"><![CDATA[<strong>Data Point To Slow Economy</strong> ]]></paragraph>
+              <paragraph num="9"><![CDATA[In making his case, the Fed chief provided a gloomy recitation of economic woes that have already occurred. The economy shed 168,000 jobs in September, bringing the total job loss since January to nearly 900,000. That means unemployment has risen 1 or 2 percentage points since January. Bernanke said the housing market is also depressed. Single-family-housing starts dropped 12 percent in September. ]]></paragraph>
+              <paragraph num="10"><![CDATA["Residential construction is likely to continue to contract next year," Bernanke said.  ]]></paragraph>
+              <paragraph num="11"><![CDATA[In recent years, Fed chiefs have been focused on narrowing the budget deficit. So Bernanke's support of more spending is unusual. And while he conceded that there were trade-offs in spending more government money and adding to the debt, he said he still supported a package to help spark economic growth. ]]></paragraph>
+              <paragraph num="12"><![CDATA["With the economy likely to be weak for several quarters, and with some risk of a protracted slowdown, consideration of a fiscal package by the Congress at this juncture seems appropriate," Bernanke said.  ]]></paragraph>
+              <paragraph num="13"><![CDATA[There has already been a stimulus package from Congress this year. It enacted a $168 billion plan that included tax rebates for individuals and tax breaks for businesses last spring. There were rebate checks of up to $600 per person that gave the economy a boost, but not enough to see the economy through the current difficulties associated with the financial crisis. All indications are that consumers are pulling back again. ]]></paragraph>
+              <paragraph num="14"><![CDATA[Even when questioned directly by the committee members about what a package should include, Bernanke offered only generalities. He said that the package would need to be timely, well-targeted and would have a limited effect on the government's budget deficit &mdash; which is rocketing. Bernanke suggested that a package would do well to include provisions that would help ease wariness in the credit markets.  ]]></paragraph>
+              <paragraph num="15"><![CDATA["The credit constraints really are hitting home," Bernanke said, reciting a litany of credit problems &mdash; from businesses having trouble getting money to consumers unable to get car loans &mdash; that are putting the brakes on economic growth.]]></paragraph>
+              <paragraph num="16"><![CDATA[<strong>Credit Markets Ease Slightly</strong>]]></paragraph>
+              <paragraph num="17"><![CDATA[ Despite Bernanke's gloominess, for the first time since the financial crisis began, there seems to be a tiny glimmer of hope in the credit markets. Banks have been loath to lend to each other out of concern that they wouldn't get their money back. That has been reflected in skyrocketing interest rates. After weeks of cash infusions and loan guarantees from governments around the world, bankers' confidence appears to be growing.  ]]></paragraph>
+              <paragraph num="18"><![CDATA[The London Interbank Offered Rate, known as LIBOR, is starting to respond to the huge infusions of cash that governments have injected into the global financial system. LIBOR is the interest rate U.K. banks charge each other to borrow money, and it is set by a survey of 16 British banks. While that rate inching down is good news, the difference between LIBOR and the federal funds rate is still near an all-time high. So this is only a beginning. ]]></paragraph>
+              <paragraph num="19"><![CDATA[Expecting only baby steps in the unfreezing of the credit markets, Wall Street is looking for LIBOR to fall below the 4 percent level. Right now it is at 4.059 percent &mdash; up from about 2.5 percent before the crisis began. Lots of debt, including mortgages, is tied to LIBOR, so it is a good yardstick with which to measure efforts to save the financial industry.   ]]></paragraph>
+              <paragraph num="20"><![CDATA[Treasury Secretary Henry Paulson tried to add to the loosening of credit markets by providing more details Monday on how the government will go about buying a $250 billion equity stake in the nation's banks. The program is meant to be a straightforward way to beef up thinning bank reserves and inspire confidence so banks start lending again. So far the results have been mixed, as banks are still wary about whether the program will work.  ]]></paragraph>
+              <paragraph num="21"><![CDATA[Paulson announced a streamlined application process for banks. He said that banks would just need to fill out a two-page form and return it to their primary regulator. The regulator will review it and then forward it to the Treasury Department. Treasury will make the financial decision on which institutions will receive the stock purchases. Banks have until Nov. 14 to apply. ]]></paragraph>
+              <paragraph num="22"><![CDATA[<strong>Paulson Sees U.S. Making Money On Bailout</strong> ]]></paragraph>
+              <paragraph num="23"><![CDATA[Paulson tried to make the case that the program was already doing some good and would enjoy lots of participation. He said in addition to the nine large banks that announced their participation last week, a roster of other banks large and small have said they want to participate. Citigroup, Goldman Sachs, Wells Fargo, JPMorgan Chase, Bank of America, Merrill Lynch and Morgan Stanley are among the institutions that will be first in line for the government infusion.  ]]></paragraph>
+              <paragraph num="24"><![CDATA["Our purpose is to increase confidence in our banks and increase the confidence of our banks, so they will deploy, not hoard, their capital," said Paulson. "And we expect them to do so, as increased confidence will lead to increased lending." ]]></paragraph>
+              <paragraph num="25"><![CDATA[Many banks have been running on fumes, working with less money because of their bad bets on mortgage-related investments and hoarding the cash they have against more bad news in the future. While Paulson has tried to portray the Treasury's decision to buy stakes in banks as a voluntary program, there has been more than a little arm-twisting behind the scenes.  ]]></paragraph>
+              <paragraph num="26"><![CDATA[When Paulson met with key banking executives at the Treasury last week, he presented them with a bit of a <em>fait accompli.</em> He said they had to accept government investments even if they didn't think they needed them. Paulson told them it was their patriotic duty to do so. The idea was to include healthy institutions in the recapitalization program as well as ailing ones so that banks that chose to accept the government's help wouldn't be stigmatized or seen as failing.  ]]></paragraph>
+              <paragraph num="27"><![CDATA[Paulson said the government would end up making money on the stakes it would take in the banks. "This is an investment, not an expenditure," he said. "There is no reason to expect this program will cost taxpayers anything." ]]></paragraph>
+              <paragraph num="28"><![CDATA[The last time the Treasury waded into the banking system in this way was in the 1930s. That's when the government set up the Reconstruction Finance Corp. to make loans and buy stakes in distressed banks during the Great Depression. The price tag at the time: $1.3 billion. The government eventually got out of the banking business when the economy stabilized. The government sold the stock it held to private investors and the banks themselves. That's expected to happen in this case, as well.  ]]></paragraph>
+              <paragraph num="29"><![CDATA[<strong>Investigations Into Credit Default Swaps</strong>]]></paragraph>
+              <paragraph num="30"><![CDATA[New York state and federal prosecutors are wading into the financial crisis in a new way as well. They are investigating trading in credit default swaps &mdash; insurancelike securities that have been at the core of the financial crisis. Investigators are looking at whether traders manipulated the swaps to drive down the price of financial shares over the past year. The investigation was first reported in <em>The New York Times</em> and was confirmed to NPR by law enforcement officials.  ]]></paragraph>
+              <paragraph num="31"><![CDATA[Credit default swaps were supposed to protect buyers from people who ended up defaulting on debt. A lot of these swaps were meant as a hedge against the bundles of mortgage-backed securities losing value. The cost of the protection, also known as a spread, rises when investors grow more concerned about the viability of companies. Spreads on the swaps tied to debt issued by financial institutions like Lehman Brothers, Morgan Stanley and others began surging in the spring. That led to a decline in the companies' share prices partly because the cost of protecting their debt was going up. ]]></paragraph>
+              <paragraph num="32"><![CDATA[New York Attorney General Andrew Cuomo and the U.S. attorney in Manhattan, Michael J. Garcia, are looking into the practice. The Securities and Exchange Commission is also looking into credit default swaps. The credit default swap market has been unregulated because it fell somewhere between being a security and being insurance. There are moves afoot now to bring them under the SEC's umbrella.  Copyright 2008 National Public Radio. To see more, visit <a href="http://www.npr.org/">http://www.npr.org/</a>.<img src="http://media.npr.org/images/xanadu.gif?apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001" />]]></paragraph>
+           </textWithHtml>
+        </story>
+        <story id="95906243">
+           <link type="html">http://www.npr.org/templates/story/story.php?storyId=95906243&amp;ft=3&amp;f=1006</link>
+           <link type="api">http://api.npr.org/query?id=95906243&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           <title>Economists Explain 'How To Save Capitalism'</title>
+           <subtitle/>
+           <shortTitle/>
+           <teaser><![CDATA[The credit crisis and the mortgage meltdown have led many people to question the fundamentals of the economy; some argue that capitalism is to blame.  In the November issue of <em>Harper's Magazine</em>, economic experts weigh in on capitalism &mdash; and whether the system needs fixing.]]></teaser>
+           <miniTeaser><![CDATA[Economic experts weigh in on capitalism in the November issue of <em>Harper's Magazine</em>.]]></miniTeaser>
+           <slug>Economy</slug>
+           <thumbnail/>
+           <storyDate>Mon, 20 Oct 2008 10:00:00 -0400</storyDate>
+           <pubDate>Mon, 20 Oct 2008 14:17:00 -0400</pubDate>
+           <lastModifiedDate>Mon, 20 Oct 2008 14:35:13 -0400</lastModifiedDate>
+           <show>
+              <program id="5" code="TOTN">Talk of the Nation</program>
+              <showDate>Mon, 20 Oct 2008 10:00:00 -0400</showDate>
+              <segNum>1</segNum>
+           </show>
+           <keywords/>
+           <priorityKeywords/>
+           <organization orgId="1">
+              <name>National Public Radio</name>
+              <website type="Home Page">http://www.npr.org/</website>
+           </organization>
+           <parent id="1017" type="primaryTopic">
+              <title>Economy</title>
+              <link type="html">http://www.npr.org/templates/topics/topic.php?topicId=1017&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=1017&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </parent>
+           <parent id="1017" type="topic">
+              <title>Economy</title>
+              <link type="html">http://www.npr.org/templates/topics/topic.php?topicId=1017&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=1017&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </parent>
+           <parent id="1006" type="topic">
+              <title>Business</title>
+              <link type="html">http://www.npr.org/templates/topics/topic.php?topicId=1006&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=1006&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </parent>
+           <audio id="95906239" type="primary">
+              <title/>
+              <duration>0</duration>
+              <format/>
+              <rightsHolder/>
+           </audio>
+           <container id="95908637">
+              <title>Related NPR Stories</title><introText/><link refId="95908658" num="1"/><link refId="95908660" num="2"/><link refId="95908662" num="3"/></container>
+           <relatedLink id="95908658" type="internal">
+              <caption><![CDATA[Fed's AIG Takeover 'Like French-Style Capitalism']]></caption>
+              <link type="html">http://www.npr.org/templates/story/story.php?storyId=94699091&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=94699091&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </relatedLink>
+           <relatedLink id="95908660" type="internal">
+              <caption><![CDATA['Marketplace' Report: A New Version of Capitalism]]></caption>
+              <link type="html">http://www.npr.org/templates/story/story.php?storyId=19082543&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=19082543&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </relatedLink>
+           <relatedLink id="95908662" type="internal">
+              <caption><![CDATA[A Former Monk Takes On Love and Capitalism]]></caption>
+              <link type="html">http://www.npr.org/templates/story/story.php?storyId=9473957&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=9473957&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </relatedLink>
+           <text>
+              <paragraph num="1"><![CDATA[The credit crisis and the mortgage meltdown have led many people to question the fundamentals of the economy; some argue that capitalism is to blame.  In the November issue of Harper's Magazine, economic experts weigh in on capitalism &mdash; and whether the system needs fixing. ]]></paragraph>
+              <paragraph num="2"><![CDATA[Joseph Stiglitz, winner of the 2001 Nobel prize in economics, argues that it is time to "Realign The Interests of Wall Street."]]></paragraph>
+              <paragraph num="3"><![CDATA[Eric Janszen, a former venture capitalist, says the United States must "Reindustrialize."  Copyright 2008 National Public Radio. To see more, visit <a href="http://www.npr.org/">http://www.npr.org/</a>.<img src="http://media.npr.org/images/xanadu.gif?apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001" />]]></paragraph>
+           </text>
+           <textWithHtml>
+              <paragraph num="1"><![CDATA[The credit crisis and the mortgage meltdown have led many people to question the fundamentals of the economy; some argue that capitalism is to blame.  In the November issue of <em>Harper's Magazine</em>, economic experts weigh in on capitalism &mdash; and whether the system needs fixing. ]]></paragraph>
+              <paragraph num="2"><![CDATA[<strong>Joseph Stiglitz</strong>, winner of the 2001 Nobel prize in economics, argues that it is time to <a href="http://harpers.org/archive/2008/11/0082250" target="_blank">"Realign The Interests of Wall Street."</a>]]></paragraph>
+              <paragraph num="3"><![CDATA[<strong>Eric Janszen</strong>, a former venture capitalist, says the United States must <a href="http://harpers.org/archive/2008/11/0082255" target="_blank">"Reindustrialize."</a>  Copyright 2008 National Public Radio. To see more, visit <a href="http://www.npr.org/">http://www.npr.org/</a>.<img src="http://media.npr.org/images/xanadu.gif?apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001" />]]></paragraph>
+           </textWithHtml>
+        </story>
+        <story id="95889728">
+           <link type="html">http://www.npr.org/templates/story/story.php?storyId=95889728&amp;ft=3&amp;f=1006</link>
+           <link type="api">http://api.npr.org/query?id=95889728&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           <title>Hard Times Snowball Into Ski Industry</title>
+           <subtitle/>
+           <shortTitle/>
+           <teaser><![CDATA[Ski resorts are already reporting low season ticket sales and low advance bookings. Foreclosures are on the rise, even in the high-end Rocky Mountain ski towns once thought immune to an economic downturn. Kirk Siegler reports for member station KUNC.]]></teaser>
+           <miniTeaser><![CDATA[Ski resorts are already reporting low season ticket sales and low advance bookings.]]></miniTeaser>
+           <slug>Economy</slug>
+           <thumbnail/>
+           <storyDate>Mon, 20 Oct 2008 06:00:00 -0400</storyDate>
+           <pubDate>Mon, 20 Oct 2008 09:15:00 -0400</pubDate>
+           <lastModifiedDate>Mon, 20 Oct 2008 09:52:52 -0400</lastModifiedDate>
+           <show>
+              <program id="3" code="ME">Morning Edition</program>
+              <showDate>Mon, 20 Oct 2008 06:00:00 -0400</showDate>
+              <segNum>10</segNum>
+           </show>
+           <keywords/>
+           <priorityKeywords/>
+           <organization orgId="1">
+              <name>National Public Radio</name>
+              <website type="Home Page">http://www.npr.org/</website>
+           </organization>
+           <parent id="1055" type="topic">
+              <title>Sports</title>
+              <link type="html">http://www.npr.org/templates/topics/topic.php?topicId=1055&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=1055&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </parent>
+           <parent id="1052" type="topic">
+              <title>Fun &amp; Games</title>
+              <link type="html">http://www.npr.org/templates/topics/topic.php?topicId=1052&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=1052&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </parent>
+           <parent id="1051" type="topic">
+              <title>Diversions</title>
+              <link type="html">http://www.npr.org/templates/topics/topic.php?topicId=1051&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=1051&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </parent>
+           <parent id="1021" type="topic">
+              <title>People &amp; Places</title>
+              <link type="html">http://www.npr.org/templates/topics/topic.php?topicId=1021&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=1021&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </parent>
+           <parent id="1018" type="topic">
+              <title>Your Money</title>
+              <link type="html">http://www.npr.org/templates/topics/topic.php?topicId=1018&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=1018&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </parent>
+           <parent id="1017" type="topic">
+              <title>Economy</title>
+              <link type="html">http://www.npr.org/templates/topics/topic.php?topicId=1017&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=1017&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </parent>
+           <parent id="1017" type="primaryTopic">
+              <title>Economy</title>
+              <link type="html">http://www.npr.org/templates/topics/topic.php?topicId=1017&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=1017&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </parent>
+           <parent id="1006" type="topic">
+              <title>Business</title>
+              <link type="html">http://www.npr.org/templates/topics/topic.php?topicId=1006&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=1006&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </parent>
+           <parent id="1003" type="topic">
+              <title>Nation</title>
+              <link type="html">http://www.npr.org/templates/topics/topic.php?topicId=1003&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=1003&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </parent>
+           <parent id="1001" type="topic">
+              <title>News</title>
+              <link type="html">http://www.npr.org/templates/topics/topic.php?topicId=1001&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=1001&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </parent>
+           <audio id="95885362" type="primary">
+              <title/>
+              <duration>226</duration>
+              <format>
+                 <mp3>http://api.npr.org/m3u/195885362-6e4d08.m3u&amp;ft=3&amp;f=1006</mp3>
+                 <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=95885362&amp;type=1&amp;mtype=WM&amp;ft=3&amp;f=1006</wm>
+                 <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=95885362&amp;type=1&amp;mtype=RM&amp;ft=3&amp;f=1006</rm>
+              </format>
+              <rightsHolder/>
+           </audio>
+           <container id="95892625">
+              <title>Related NPR Stories</title><introText/><link refId="95892626" num="1"/><link refId="95892628" num="2"/><link refId="95892630" num="3"/><link refId="95892632" num="4"/></container>
+           <relatedLink id="95892626" type="internal">
+              <caption><![CDATA[As Economy Falters, Should We Spend Or Save?]]></caption>
+              <link type="html">http://www.npr.org/templates/story/story.php?storyId=95836911&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=95836911&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </relatedLink>
+           <relatedLink id="95892628" type="internal">
+              <caption><![CDATA[Amid Meltdown, Retirement Ads Stay On Message]]></caption>
+              <link type="html">http://www.npr.org/templates/story/story.php?storyId=95799658&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=95799658&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </relatedLink>
+           <relatedLink id="95892630" type="internal">
+              <caption><![CDATA[Tough Economic Times Hit Teens, Too]]></caption>
+              <link type="html">http://www.npr.org/templates/story/story.php?storyId=95793263&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=95793263&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </relatedLink>
+           <relatedLink id="95892632" type="internal">
+              <caption><![CDATA[Paying For College In A Rough Economy]]></caption>
+              <link type="html">http://www.npr.org/templates/story/story.php?storyId=95787092&amp;ft=3&amp;f=1006</link>
+              <link type="api">http://api.npr.org/query?id=95787092&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </relatedLink>
+        </story>
+     </list>
+  </nprml>

@@ -1,0 +1,15 @@
+item_without_slug: >
+  <item id="4499275" num="10" type="column">
+    <slug/>
+    <title>Sweetness And Light</title>
+    <additionalInfo>
+       Frank Deford's weekly commentary on sports appears Wednesdays on NPR.org.
+    </additionalInfo>
+  </item>
+
+item_with_slug: >
+  <item id="2100140" num="1" type="bio">
+    <slug>NPR People</slug>
+    <title>Larry Abramson</title>
+    <additionalInfo>Education Correspondent, National Desk</additionalInfo>
+  </item>

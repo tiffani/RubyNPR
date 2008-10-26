@@ -1,0 +1,190 @@
+npr_system_issues: >
+ <?xml version="1.0"?>
+    <messages>
+       <message id="101" level="error">
+          <text>
+             NPR is experiencing system issues at this time. Please try this request again later.
+          </text>
+          <timestamp>1214266426.87</timestamp>
+       </message>
+    </messages>
+ </xml>
+ 
+bad_api_key: >
+ <?xml version="1.0"?>
+    <messages>
+       <message id="310" level="error">
+          <text>
+             The API key passed in (bogus_api_test_key) was invalid or no API key was passed in.  Please register for a valid API key.
+          </text>
+          <timestamp>1214266426.87</timestamp>
+       </message>
+    </messages>
+ </xml>
+ 
+deactivated_api_key: >
+ <?xml version="1.0"?>
+    <messages>
+       <message id="311" level="error">
+          <text>
+             The API key passed in (inactive_api_test_key) was deactivated. We will contact the email associated with this API key, but you may also contact us by visiting http://www.npr.org/contact/ and selecting the office 'Online / Technical Support'.
+          </text>
+          <timestamp>1214266426.87</timestamp>
+       </message>
+    </messages>
+ </xml>
+
+invalid_list: >
+  <?xml version="1.0"?>
+  <errorResponse error="true">
+     <message><The requested list could not be found.></message>
+  </errorResponse>
+
+results_with_warning: >
+  <?xml version="1.0"?>
+     <nprml version="0.9">
+     <message id="306" level="warning">
+        <text>Your parameter (endDate=2045-12-31) was in the future, so it was reset to now.</text>
+        <timestamp>1224953395.25</timestamp>
+     </message>
+     <list>
+        <title>Morning Edition</title>
+        <teaser><![CDATA[For more than two decades, NPR's Morning Edition has prepared listeners for the day ahead with two hours of up-to-the-minute news, background analysis, commentary, and coverage of arts and sports. With nearly 13 million listeners, Morning Edition draws public radio's largest audience.]]></teaser>
+        <miniTeaser><![CDATA[For more than two decades, NPR's Morning Edition has prepared listeners for the day ahead.]]></miniTeaser>
+        <story id="96063076">
+           <link type="html">http://www.npr.org/templates/story/story.php?storyId=96063076&amp;ft=3&amp;f=3</link>
+           <link type="api">http://api.npr.org/query?id=96063076&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           <title>Survey: U.S. Doctors Regularly Prescribe Placebos</title>
+           <subtitle/>
+           <shortTitle/>
+           <teaser><![CDATA[The American Medical Association says doctors shouldn't prescribe placebos because the practice undermines trust. But in a new study, about half of the physicians surveyed say they regularly prescribe placebos &mdash; and that patients are mostly unaware.]]></teaser>
+           <miniTeaser><![CDATA[The doctors say they regularly prescribe placebos &mdash; and that patients are mostly unaware.]]></miniTeaser>
+           <slug>Health Care</slug>
+           <storyDate>Fri, 24 Oct 2008 06:00:00 -0400</storyDate>
+           <pubDate>Fri, 24 Oct 2008 18:11:00 -0400</pubDate>
+           <lastModifiedDate>Fri, 24 Oct 2008 11:50:17 -0400</lastModifiedDate>
+           <show>
+              <program id="3" code="ME">Morning Edition</program>
+              <showDate>Fri, 24 Oct 2008 06:00:00 -0400</showDate>
+              <segNum>4</segNum>
+           </show>
+           <keywords/>
+           <priorityKeywords/>
+           <organization orgId="1">
+              <name>National Public Radio</name>
+              <website type="Home Page">http://www.npr.org/</website>
+           </organization>
+           <parent id="1066" type="topic">
+              <title>Your Health</title>
+              <link type="html">http://www.npr.org/templates/topics/topic.php?topicId=1066&amp;ft=3&amp;f=3</link>
+              <link type="api">http://api.npr.org/query?id=1066&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </parent>
+           <parent id="1027" type="primaryTopic">
+              <title>Health Care</title>
+              <link type="html">http://www.npr.org/templates/topics/topic.php?topicId=1027&amp;ft=3&amp;f=3</link>
+              <link type="api">http://api.npr.org/query?id=1027&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </parent>
+           <parent id="1027" type="topic">
+              <title>Health Care</title>
+              <link type="html">http://www.npr.org/templates/topics/topic.php?topicId=1027&amp;ft=3&amp;f=3</link>
+              <link type="api">http://api.npr.org/query?id=1027&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </parent>
+           <parent id="1024" type="topic">
+              <title>Research News</title>
+              <link type="html">http://www.npr.org/templates/topics/topic.php?topicId=1024&amp;ft=3&amp;f=3</link>
+              <link type="api">http://api.npr.org/query?id=1024&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </parent>
+           <parent id="1007" type="topic">
+              <title>Health &amp; Science</title>
+              <link type="html">http://www.npr.org/templates/topics/topic.php?topicId=1007&amp;ft=3&amp;f=3</link>
+              <link type="api">http://api.npr.org/query?id=1007&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </parent>
+           <parent id="1003" type="topic">
+              <title>Nation</title>
+              <link type="html">http://www.npr.org/templates/topics/topic.php?topicId=1003&amp;ft=3&amp;f=3</link>
+              <link type="api">http://api.npr.org/query?id=1003&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </parent>
+           <parent id="1001" type="topic">
+              <title>News</title>
+              <link type="html">http://www.npr.org/templates/topics/topic.php?topicId=1001&amp;ft=3&amp;f=3</link>
+              <link type="api">http://api.npr.org/query?id=1001&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+           </parent>
+           <audio id="96070747" type="primary">
+              <title/>
+              <duration>236</duration>
+              <format>
+                 <mp3>http://api.npr.org/m3u/196070747-61f4cc.m3u&amp;ft=3&amp;f=3</mp3>
+                 <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=96070747&amp;type=1&amp;mtype=WM&amp;ft=3&amp;f=3</wm>
+                 <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=96070747&amp;type=1&amp;mtype=RM&amp;ft=3&amp;f=3</rm>
+              </format>
+              <rightsHolder/>
+          </audio>
+          <byline id="96063087">
+             <name personId="2100771">Richard Knox</name>
+             <link type="html">http://www.npr.org/templates/story/story.php?storyId=2100771&amp;ft=3&amp;f=3</link>
+             <link type="api">http://api.npr.org/query?id=2100771&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+          </byline>
+          <container id="96063075">
+             <title>Related NPR Stories</title><introText/><link refId="96063081" num="1"/><link refId="96063083" num="2"/><link refId="96063085" num="3"/></container>
+          <relatedLink id="96063081" type="internal">
+             <caption><![CDATA[Study Sheds More Light On 'Placebo Effect']]></caption>
+             <link type="html">http://www.npr.org/templates/story/story.php?storyId=87938032&amp;ft=3&amp;f=3</link>
+             <link type="api">http://api.npr.org/query?id=87938032&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+          </relatedLink>
+          <relatedLink id="96063083" type="internal">
+             <caption><![CDATA[Treating Childhood Ouchies With Placebos]]></caption>
+             <link type="html">http://www.npr.org/templates/story/story.php?storyId=90864884&amp;ft=3&amp;f=3</link>
+             <link type="api">http://api.npr.org/query?id=90864884&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+          </relatedLink>
+          <relatedLink id="96063085" type="internal">
+             <caption><![CDATA[Depressed? You Don't Need Drugs, Psychiatrist Says]]></caption>
+             <link type="html">http://www.npr.org/templates/story/story.php?storyId=92921949&amp;ft=3&amp;f=3</link>
+             <link type="api">http://api.npr.org/query?id=92921949&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+          </relatedLink>
+          <text>
+             <paragraph num="1"><![CDATA[Placebos are common in medical research testing. One group of volunteers gets a test drug, while another group gets a look-alike sugar pill. Everybody is told upfront that they could get one or the other.]]></paragraph>
+             <paragraph num="2"><![CDATA[But a new survey finds that many U.S. doctors regularly prescribe placebos even in everyday patient care &mdash; for conditions that haven't responded to treatment, such as chronic pain or fatigue. Patients are almost never aware that they are getting a placebo.]]></paragraph>
+             <paragraph num="3"><![CDATA[The idea is that if a patient thinks the pill will help, it just might.]]></paragraph>
+             <paragraph num="4"><![CDATA[Of nearly 700 U.S. internal medicine doctors and arthritis specialists surveyed, almost half said they prescribe placebos regularly &mdash; two to three times a month. Only 1 in 20 doctors told patients they were getting a placebo.]]></paragraph>
+             <paragraph num="5"><![CDATA[Doctors say they most often will prescribe a vitamin pill or over-the-counter painkiller, though some prescribe an antibiotic or sedative, which the authors of the study say could be harmful. Typically, doctors tell patients the placebo is "potentially helpful, but not designed for your specific illness."]]></paragraph>
+             <paragraph num="6"><![CDATA["Half of all American internists and rheumatologists using placebos was a real surprise to me," says Dr. Ezekiel Emanuel, head of ethics at the National Institutes of Health and an author of the study, which appears in the current issue of the British Medical Journal.]]></paragraph>
+             <paragraph num="7"><![CDATA[Dr. Howard Brody was surprised, too. Brody, an expert on placebos at the University of Texas in Galveston, says the research shows how much doctors' attitudes have changed over the past few decades.]]></paragraph>
+             <paragraph num="8"><![CDATA["For many, many years, the typical reaction of a physician was, 'Well, real doctors don't prescribe placebos. A placebo is a fake medicine. So only a quack would prescribe a placebo,' " says Brody, who was not involved with the survey.]]></paragraph>
+             <paragraph num="9"><![CDATA[Since the 1960s, the dominant ethic among U.S. physicians has been "patient autonomy." This means patients are in charge, that they are entitled to know everything about their care, and that a doctor should get informed consent before giving any treatment.]]></paragraph>
+             <paragraph num="10"><![CDATA[But if many doctors are handing out placebos, it would be at odds with this ethic, Emanuel says.]]></paragraph>
+             <paragraph num="11"><![CDATA["On the one hand, if we have placebos and they work and make people feel good, we're promoting people's health and promoting people's welfare," he says. "But if it requires us to deceive them, we're undermining autonomy."]]></paragraph>
+             <paragraph num="12"><![CDATA[The American Medical Association recognizes the predicament. Two years ago, it adopted a policy that the use of a placebo without a patient's knowledge can undermine trust and even result in medical harm.]]></paragraph>
+             <paragraph num="13"><![CDATA[Robert Sade, a South Carolina surgeon, was chair of the AMA's ethics council when the new policy was adopted.]]></paragraph>
+             <paragraph num="14"><![CDATA["Physicians who use placebos are not being 'unethical,' " Sade says. "But they're skirting on the edges of ethical behavior."]]></paragraph>
+             <paragraph num="15"><![CDATA[The AMA says if doctors want to use placebos, they should tell patients that one or more of the pills they're getting is not specifically designed for their illness, but that some have found it helpful. This is basically the definition of a placebo. Studies have shown that placebos sometimes do help people who expect them to work.]]></paragraph>
+             <paragraph num="16"><![CDATA[For instance, Sade says, "The physician would tell the patient, 'I'm going to give you these two medications. I want you to take this red pill for a month and record your symptoms. And I want you to take this blue pill for a month and record your symptoms in a log.' "]]></paragraph>
+             <paragraph num="17"><![CDATA[It's sort of an experiment involving a single patient. Either or both pills could be placebos.]]></paragraph>
+             <paragraph num="18"><![CDATA[But some say this is just a more elaborate kind of deception. "This is not informed consent," says Ted Kaptchuk of Harvard Medical School, who researches the placebo effect. "There's something wrong with the AMA position. I'm not comfortable with it at all."]]></paragraph>
+             <paragraph num="19"><![CDATA[Emanuel, the NIH ethics chief, agrees. "I think we're all just a little nervous about that as a common practice," he says. "Even though it might be on the right side of deception, we're not being fully frank with the patient."]]></paragraph>
+             <paragraph num="20"><![CDATA[But Emanuel doesn't condemn all placebo use. After all, he says, it shows that American doctors understand that the mind plays a big role in healing, and that's not a bad thing.  Copyright 2008 National Public Radio. To see more, visit <a href="http://www.npr.org/">http://www.npr.org/</a>.<img src="http://media.npr.org/images/xanadu.gif?apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001" />]]></paragraph>
+          </text>
+          <textWithHtml>
+             <paragraph num="1"><![CDATA[Placebos are common in medical research testing. One group of volunteers gets a test drug, while another group gets a look-alike sugar pill. Everybody is told upfront that they could get one or the other.]]></paragraph>
+             <paragraph num="2"><![CDATA[But a new survey finds that many U.S. doctors regularly prescribe placebos even in everyday patient care &mdash; for conditions that haven't responded to treatment, such as chronic pain or fatigue. Patients are almost never aware that they are getting a placebo.]]></paragraph>
+             <paragraph num="3"><![CDATA[The idea is that if a patient thinks the pill will help, it just might.]]></paragraph>
+             <paragraph num="4"><![CDATA[Of nearly 700 U.S. internal medicine doctors and arthritis specialists surveyed, almost half said they prescribe placebos regularly &mdash; two to three times a month. Only 1 in 20 doctors told patients they were getting a placebo.]]></paragraph>
+             <paragraph num="5"><![CDATA[Doctors say they most often will prescribe a vitamin pill or over-the-counter painkiller, though some prescribe an antibiotic or sedative, which the authors of the study say could be harmful. Typically, doctors tell patients the placebo is "potentially helpful, but not designed for your specific illness."]]></paragraph>
+             <paragraph num="6"><![CDATA["Half of all American internists and rheumatologists using placebos was a real surprise to me," says Dr. Ezekiel Emanuel, head of ethics at the National Institutes of Health and an author of the study, which appears in the current issue of the <em>British Medical Journal.</em>]]></paragraph>
+             <paragraph num="7"><![CDATA[Dr. Howard Brody was surprised, too. Brody, an expert on placebos at the University of Texas in Galveston, says the research shows how much doctors' attitudes have changed over the past few decades.]]></paragraph>
+             <paragraph num="8"><![CDATA["For many, many years, the typical reaction of a physician was, 'Well, real doctors don't prescribe placebos. A placebo is a fake medicine. So only a quack would prescribe a placebo,' " says Brody, who was not involved with the survey.]]></paragraph>
+             <paragraph num="9"><![CDATA[Since the 1960s, the dominant ethic among U.S. physicians has been "patient autonomy." This means patients are in charge, that they are entitled to know everything about their care, and that a doctor should get informed consent before giving any treatment.]]></paragraph>
+             <paragraph num="10"><![CDATA[But if many doctors are handing out placebos, it would be at odds with this ethic, Emanuel says.]]></paragraph>
+             <paragraph num="11"><![CDATA["On the one hand, if we have placebos and they work and make people feel good, we're promoting people's health and promoting people's welfare," he says. "But if it requires us to deceive them, we're undermining autonomy."]]></paragraph>
+             <paragraph num="12"><![CDATA[The American Medical Association recognizes the predicament. Two years ago, it adopted a policy that the use of a placebo without a patient's knowledge can undermine trust and even result in medical harm.]]></paragraph>
+             <paragraph num="13"><![CDATA[Robert Sade, a South Carolina surgeon, was chair of the AMA's ethics council when the new policy was adopted.]]></paragraph>
+             <paragraph num="14"><![CDATA["Physicians who use placebos are not being 'unethical,' " Sade says. "But they're skirting on the edges of ethical behavior."]]></paragraph>
+             <paragraph num="15"><![CDATA[The AMA says if doctors want to use placebos, they should tell patients that one or more of the pills they're getting is not specifically designed for their illness, but that some have found it helpful. This is basically the definition of a placebo. Studies have shown that placebos sometimes do help people who expect them to work.]]></paragraph>
+             <paragraph num="16"><![CDATA[For instance, Sade says, "The physician would tell the patient, 'I'm going to give you these two medications. I want you to take this red pill for a month and record your symptoms. And I want you to take this blue pill for a month and record your symptoms in a log.' "]]></paragraph>
+             <paragraph num="17"><![CDATA[It's sort of an experiment involving a single patient. Either or both pills could be placebos.]]></paragraph>
+             <paragraph num="18"><![CDATA[But some say this is just a more elaborate kind of deception. "This is not informed consent," says Ted Kaptchuk of Harvard Medical School, who researches the placebo effect. "There's something wrong with the AMA position. I'm not comfortable with it at all."]]></paragraph>
+             <paragraph num="19"><![CDATA[Emanuel, the NIH ethics chief, agrees. "I think we're all just a little nervous about that as a common practice," he says. "Even though it might be on the right side of deception, we're not being fully frank with the patient."]]></paragraph>
+             <paragraph num="20"><![CDATA[But Emanuel doesn't condemn all placebo use. After all, he says, it shows that American doctors understand that the mind plays a big role in healing, and that's not a bad thing.  Copyright 2008 National Public Radio. To see more, visit <a href="http://www.npr.org/">http://www.npr.org/</a>.<img src="http://media.npr.org/images/xanadu.gif?apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001" />]]></paragraph>
+          </textWithHtml>
+        </story>
+     </list>
+  </nprml>

@@ -1,0 +1,11 @@
+org_with_abbreviation: >
+ <organization orgId="1" orgAbbr="NPR">
+    <name>National Public Radio</name>
+    <website type="Home Page">http://www.npr.org</website>
+ </organization>
+
+org_without_abbreviation: >
+ <organization orgId="1">
+    <name>National Public Radio</name>
+    <website type="Home Page">http://www.npr.org/</website>
+ </organization>

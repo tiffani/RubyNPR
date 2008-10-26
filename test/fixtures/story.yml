@@ -1,0 +1,124 @@
+typical_story: >
+  <nprml version="0.9">
+     <list>
+        <title>Health &amp; Science</title>
+        <teaser><![CDATA[The latest health and science news.  Updates on medicine, healthy living, nutrition, drugs, diet, and advances in	technology...]]></teaser>
+        <miniTeaser/>
+        <story id="95604667">
+           <link type="html">http://www.npr.org/templates/story/story.php?storyId=95604667&amp;ft=3&amp;f=1007</link>
+           <link type="api">http://api.npr.org/query?id=95604667&amp;apiKey=MDAyMDAzMjg3MDEyMjMwMTgyODA0NWNlMg001</link>
+           <title>Bridging Gap Between Mental, Physical Health Care</title>
+           <subtitle/>
+           <shortTitle/>
+           <teaser><![CDATA[Provisions slipped into the economic bail out bill mandate that employers and insurance companies give mental health issues parity with physical health issues...]]></teaser>
+           <miniTeaser><![CDATA[A new law says that insurance companies must give parity to mental and physical health issues.]]></miniTeaser>
+           <slug>Health Care</slug>
+           <thumbnail/>
+           <storyDate>Fri, 10 Oct 2008 10:00:00 -0400</storyDate>
+           <pubDate>Fri, 10 Oct 2008 13:20:00 -0400</pubDate>
+           <lastModifiedDate>Fri, 10 Oct 2008 15:39:19 -0400</lastModifiedDate>
+           <show>
+                <program id="5" code="TOTN">Talk of the Nation</program>
+                <showDate>Fri, 10 Oct 2008 15:39:19 -0400</showDate>
+                <segNum>5</segNum>
+           </show>
+           <keywords/>
+           <priorityKeywords/>
+           <organization orgId="1">
+              <name>National Public Radio</name>
+              <website type="Home Page">http://www.npr.org/</website>
+           </organization>
+           <audio id="95608227" type="primary">
+              <title/>
+              <duration>748</duration>
+              <format>
+                 <mp3>http://api.npr.org/m3u/195608227-30ec0e.m3u&amp;ft=3&amp;f=1007</mp3>
+                 <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=95608227&amp;type=1&amp;mtype=WM&amp;ft=3&amp;f=1007</wm>
+                 <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=95608227&amp;type=1&amp;mtype=RM&amp;ft=3&amp;f=1007</rm>
+              </format>
+              <rightsHolder/>
+           </audio>
+           <image id="90300103" type="standard" width="200" src="http://media.npr.org/politics/election2008/dems/obama/obama_promo.jpg" hasBorder="true">
+              <title>Photo gallery of Illinois Sen. Barack Obama</title>
+              <caption/>
+              <link url="http://www.npr.org/news/images/2008/may/08/obama_slideshow/index.html"/>
+              <producer/>
+              <provider url=""/>
+              <copyright/>
+           </image>
+           <image id="11830103" type="standard" width="200" src="http://media.npr.org/politics/election2008/dems/obama_bio.gif" hasBorder="true">
+              <title>At a Glance: Barack Obama</title>
+              <caption/>
+              <link url=""/>
+              <producer/>
+              <provider url=""/>
+              <copyright/>
+           </image>
+           <image id="90333838" type="standard" width="200" src="http://media.npr.org/news/graphics/2008/may/funding_spending200.jpg" hasBorder="true">
+              <title>The Pace of the Money Race chart</title>
+              <caption>Chart the pace of the presidential race.</caption>
+              <link url="http://www.npr.org/buckets/politics/election2008/money_race.html"/>
+              <producer>Lindsay Mangum, NPR</producer>
+              <provider url=""/>
+              <copyright/>
+           </image>
+           <relatedLink id="96072990" type="internal">
+              <caption><![CDATA[Why Can't The Presidential Polls Just Get Along?]]></caption>
+              <link type="html">http://www.npr.org/watchingwashington/2008/10/why_cant_the_presidential_poll.html&amp;ft=3&amp;f=96048563</link>
+           </relatedLink>
+           <parent id="1066" type="topic">
+              <title>Your Health</title>
+              <link type="html">http://www.npr.org/templates/topics/topic.php?topicId=1066&amp;ft=3&amp;f=1007</link>
+              <link type="api">http://api.npr.org/query?id=1066&amp;apiKey=MDAyMDAzMjg3MDEyMjMwMTgyODA0NWNlMg001</link>
+           </parent>
+           <parent id="1027" type="primaryTopic">
+              <title>Health Care</title>
+              <link type="html">http://www.npr.org/templates/topics/topic.php?topicId=1027&amp;ft=3&amp;f=1007</link>
+              <link type="api">http://api.npr.org/query?id=1027&amp;apiKey=MDAyMDAzMjg3MDEyMjMwMTgyODA0NWNlMg001</link>
+           </parent>
+           <parent id="1007" type="topic">
+              <title>Health &amp; Science</title>
+              <link type="html">http://www.npr.org/templates/topics/topic.php?topicId=1007&amp;ft=3&amp;f=1007</link>
+              <link type="api">http://api.npr.org/query?id=1007&amp;apiKey=MDAyMDAzMjg3MDEyMjMwMTgyODA0NWNlMg001</link>
+           </parent>
+           <parent id="1006" type="topic">
+              <title>Business</title>
+              <link type="html">http://www.npr.org/templates/topics/topic.php?topicId=1006&amp;ft=3&amp;f=1007</link>
+              <link type="api">http://api.npr.org/query?id=1006&amp;apiKey=MDAyMDAzMjg3MDEyMjMwMTgyODA0NWNlMg001</link>
+           </parent>
+           <container id="95605164">
+              <title>Related NPR Stories</title><introText/><link refId="95605169" num="1"/><link refId="95605171" num="2"/>
+              <link refId="95605173" num="3"/><link refId="95605173" num="4"/>
+           </container>
+           <text>
+              <paragraph num="1"><![CDATA[Provisions slipped into the economic bailout bill mandate that employers and insurance companies...]]></paragraph>
+              <paragraph num="2"><![CDATA[William C. Moyers is the vice president of external affairs at the Hazelden Foundation...]]></paragraph>
+           </text>
+           <textWithHtml>
+              <paragraph num="1"><![CDATA[Provisions slipped into the economic bailout bill mandate that employers and insurance companies...]]></paragraph>
+              <paragraph num="2"><![CDATA[William C. Moyers is the vice president of external affairs at the Hazelden Foundation...]]></paragraph>
+           </textWithHtml>
+           <product id="95605177" type="Book">
+              <title>Broken</title>
+              <author>William C. Moyers</author>
+              <upc>0670037893</upc>
+              <publisher/>
+              <publishYear>0</publishYear>
+              <purchaseLink vendor="Amazon">http://www.amazon.com/exec/obidos/ASIN/1592855512/npr-5-20</purchaseLink>
+           </product>
+        </story>
+     </list>
+  </nprml>
+
+with_no_fields: >
+  <nprml version="0.9">
+     <list>
+        <title>Stories from NPR</title>
+        <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+        <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+        <story id="96105723">
+           <link type="html">http://www.npr.org/templates/story/story.php?storyId=96105723&amp;ft=3&amp;f=96105723</link>
+           <link type="api">http://api.npr.org/query?id=96105723&amp;apiKey=MDAyMDAzMjg3MDEyMjQ1Mjg4OTkxZjcyOQ001</link>
+        </story>
+     </list>
+  </nprml>

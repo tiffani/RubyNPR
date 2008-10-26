@@ -1,0 +1,9 @@
+book: >
+  <product id="94639520" type="Book">
+     <title>Ordinary People</title>
+     <author>Judith Guest</author>
+     <upc>0140065172</upc>
+     <publisher/>
+     <publishYear>0</publishYear>
+     <purchaseLink vendor="Amazon">http://www.amazon.com/exec/obidos/ASIN/0140065172/npr-5-20</purchaseLink>
+  </product>
