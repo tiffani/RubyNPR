@@ -4,7 +4,7 @@ Ruby-NPR
 
 == How do I install?
 
-<tt>sudo gem i ruby-npr</tt>
+<tt>sudo gem i rubynpr</tt>
 
 == How do I get started?
 
@@ -24,7 +24,7 @@ a story directly.  The Story is accessible from <tt>@client.results.list[0]</tt>
 
 Client#query accepts a single ID value (for either a story or a topic), as above, or a list of IDs in the form of an array.
 
-See Client#query for more details.
+See Client#query[http://rubynpr.rubyforge.org/rubynpr/classes/NPR/Client.html#M000007] for more details.
 
 
 == License
